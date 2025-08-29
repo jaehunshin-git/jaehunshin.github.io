@@ -5,8 +5,8 @@
 ```plaintext
 .
 ├── README.md
-├── _config.yml
 └── docs
+    ├── _config.yml
     ├── index.md
     └── pdf-to-md-llm-assistant
         └── privacy-policy.md
