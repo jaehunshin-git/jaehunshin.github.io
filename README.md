@@ -6,8 +6,8 @@
 .
 ├── README.md
 ├── _config.yml
-├── docs
-│   └── pdf-to-md-llm-assistant
-│       └── privacy-policy.md
-└── index.md
+└── docs
+    ├── index.md
+    └── pdf-to-md-llm-assistant
+        └── privacy-policy.md
 ```
