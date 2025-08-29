@@ -1,87 +1,69 @@
-# Privacy Policy  
+# Privacy Policy for PDF to MD - LLM Assistant
 
-**PDF to LLM Assistant**  
-Last Updated: August 29, 2025
+**Effective Date:** August 29, 2025
 
-PDF to LLM Assistant (“the Extension”) takes your privacy seriously and complies with all relevant laws and Chrome Web Store policies. This document explains what information is processed, how, and why, when you use the Extension.
+### 1. Introduction
 
-## 1. Core Principles of Data Processing  
+This Privacy Policy explains what information is handled by the "PDF to MD - LLM Assistant" Chrome extension ("the Extension"), for what purposes and legal bases, how it is shared, transferred, secured, and retained, and what rights are available to you under applicable laws, including Korea’s Personal Information Protection Act (PIPA) and the EU's General Data Protection Regulation (GDPR).
 
-- All processing of your PDF files and nearly all user data occurs **100% locally** on your computer/browser.
-- No personal data is ever used for resale, personalized advertising, credit evaluation, or any non-essential purpose.
+The Extension prioritizes local processing, data minimization, and full compliance with the Chrome Web Store’s “Limited Use” policy.
 
-## 2. Personal Data Collected and Purposes  
+### 2. Data Controller
 
-The Extension **does not collect or persistently store any personal data** during ordinary use.  
-However, in the limited context of **Pro license activation/restoration**, the following information may be handled temporarily:
+- **Controller:** Jaehun Shin (Developer)
+- **Contact:** jhshin0422@gmail.com
 
-| Context | Data Item | Purpose | Method | Retention Period |
-|---|---|---|---|---|
-| License Activation | License Key | Pro license validity check | Direct user entry | Deleted immediately after verification |
-| Purchase Restoration | License Key, Email Address | Restore purchase record | Direct user entry | Deleted immediately after verification |
-| Browser Sync Storage | Pro activation status (flag only) | Syncing Pro status across devices | Auto storage | Deleted upon deactivation or extension removal |
+If you have any questions or wish to exercise your rights, please contact us via the email above. Including relevant details will help us handle your request promptly.
 
-※ Users who do not wish to provide this information may simply choose not to use Pro features or purchase restoration.
+### 3. Key Privacy Principles
 
-## 3. Automatically Collected Data  
+- **Local-First Processing:** All PDF files and their content are processed locally within your browser. They are never transmitted to our servers.
+- **Data Minimization:** We only handle the minimum data necessary for the stated purposes.
+- **No Sale or Advertising Use:** Your data is never sold or used for personalized advertising or credit profiling.
 
-- The Extension **does not automatically collect or store** your PDF files, document contents, web browsing history, IP address, or location data.
-- For Pro verification requests, meta data (e.g., request timestamps, server access logs) may be generated within Google Firebase/Cloud infrastructure; this is managed by the provider and is not used or held by the Extension itself.
+### 4. Personal Data We Handle, Purposes, and Legal Bases
 
-## 4. Third-Party Data Handling and Sharing  
+The Extension does not collect or store any personal data during the ordinary use of its core conversion features. In the limited context of Pro license activation and restoration, the following data is handled based on contract performance and our legitimate interest in providing and securing our service:
 
-We do **not** share or delegate your personal data to third parties, except where strictly required as follows:
+| Context | Data Item | Purpose of Processing | Retention Period |
+|---|---|---|---|
+| **License Activation** | License Key | To verify the validity of a Pro license. | Deleted immediately after verification. |
+| **Purchase Restoration** | License Key, Email Address | To find and restore a user's previous purchase record. | Deleted immediately after verification. |
+| **Browser Sync Storage** | Pro Activation Status (a simple true/false flag) | To sync your Pro status across your devices. | Stored until you deactivate or uninstall the extension. |
 
-| Recipient / Vendor | Country | Transmitted Data | Purpose | Legal Basis | Retention Period |
+*Users who do not wish to provide this information may simply choose not to use the Pro features or the purchase restoration function.*
+
+### 5. Third-Party Services and Data Sharing
+
+We do not share your personal data, except where strictly necessary for payment processing and license verification. We do not share data for advertising or any other secondary purpose. As the developer, I do not personally view, access, or store your license key or email address during this automated verification process. The data is handled exclusively by the secure, automated backend function for the sole purpose of verification with the third-party services.
+
+| Recipient / Vendor | Country | Data Transmitted | Purpose | Legal Basis | Data Policy |
 |---|---|---|---|---|---|
-| Gumroad Inc. (Payments) | USA | During purchase: payment info, email address | Pro purchase payment | Contract fulfillment | See Gumroad's policies |
-| Google LLC (Firebase Functions) | Global | License Key, Email (for restoration) | Pro license check | Service operation | Deleted immediately after verification/restoration |
+| **Gumroad Inc.** | USA | During purchase: payment info, email address. | To process Pro license purchases. | Contract Fulfillment | See Gumroad's policies. |
+| **Google LLC** | Global | License Key, Email (for restoration only). | To serve as a secure backend proxy for license verification. | Service Operation | See Google's policies. |
 
-You may review each vendor’s privacy policy on their official websites.
+### 6. International Data Transfers
 
-## 5. International Data Transfers  
+For Pro license verification, your license key (and email, for restoration) may be processed on Google’s global cloud infrastructure. For purchases, your payment data is processed by Gumroad, Inc. in the United States. All transfers are protected with strong encryption (HTTPS/TLS) and are handled according to international data transfer standards as implemented by our providers.
 
-- During Pro purchase or license verification, data may be transmitted to the United States (Gumroad) or Google's global cloud infrastructure.
-- Method: Securely encrypted (HTTPS/TLS) transfer at the time of request.
-- Data is handled according to international standards and the respective vendors’ policies.
+### 7. Data Security
 
-## 6. Data Retention and Disposal  
+We are committed to protecting your data. All network transmissions are encrypted with HTTPS/TLS. Data collection and access are minimized to what is strictly necessary. Our third-party providers, Google and Gumroad, implement industry-standard security controls, including encryption-at-rest and access monitoring.
 
-- Information entered for Pro activation/restoration is **deleted automatically immediately after use**.
-- The Pro activation status is stored only within your browser and deleted on deactivation or uninstall.
-- Any logs or records held by Google or Gumroad are subject to those companies’ own retention and disposal policies.
+### 8. Your Rights
 
-## 7. Data Subject Rights and How to Exercise Them  
+Under applicable laws like GDPR and PIPA, you have the right to access, rectify, or erase your personal data, as well as the right to restrict or object to its processing. Since we immediately delete verification data, these rights primarily apply to the Pro status flag stored in your browser, which you can delete by uninstalling the extension. For any requests, please contact us at the email provided above.
 
-- You may at any time request to access, correct, delete, restrict processing of, or withdraw consent for any personal data you have provided.
-- Actions related to license info, purchase restoration, sync storage, and extension removal can be performed by you directly. For any additional issues, contact the Data Protection Officer below and action will be taken promptly.
-- Any rights concerning data managed by Google or Gumroad must be exercised directly with those companies.
+You also have the right to lodge a complaint with a competent supervisory authority, such as the Personal Information Protection Commission (PIPC) in Korea or the relevant authority in your EU member state.
 
-## 8. Data Security  
+### 9. Children’s Privacy
 
-- All network transmissions are encrypted with HTTPS/TLS.
-- Data collection, storage, and access are minimized and strictly controlled.
-- Google and Gumroad infrastructure implement standard encryption-by-default, access control, and log monitoring according to industry best practices.
+The Extension is not directed to children under the age of 14 and does not knowingly collect their personal data. If we become aware that such data has been inadvertently collected, we will delete it without delay.
 
-## 9. Children’s Privacy  
+### 10. Chrome Web Store Compliance
 
-The Extension does not target children under 14 nor knowingly collect information from them. Pro purchase and restoration features are not available to users under this age.
+This extension fully complies with the Chrome Web Store User Data policies, including the “Limited Use” requirements. Data is used only for the core functionality of the extension (PDF conversion and Pro feature management) and is never sold or used for unrelated purposes.
 
-## 10. Data Protection Officer & Contact  
+### 11. Changes to This Policy
 
-- Name: Jaehun Shin  
-- Position: Data Protection Officer  
-- Email: <jhshin0422@gmail.com>  
-All privacy inquiries are welcome via the above email.  
-※ Any changes to this policy will be announced clearly with the updated revision date.
-
-## 11. Chrome Web Store “Limited Use” Policy & Additional Compliance  
-
-- The Extension fully complies with Google Chrome Web Store’s “Limited Use” policy.
-- User data is **only used for core functions**: document conversion, Pro feature management, and purchase restoration.
-- No data is ever sold, shared for secondary purposes, used for personalized advertising/credit evaluation, or transferred without necessity.
-
-## 12. Policy Versioning & Notice  
-
-- This policy is effective August 29, 2025.
-- Significant changes to this policy will be announced and made available in advance on this page.
+We may update this Privacy Policy in the future. Any material changes will be announced clearly with an updated effective date. We encourage you to review this policy periodically.
